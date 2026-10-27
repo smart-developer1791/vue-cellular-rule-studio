@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "A little triangle of surprises",
+  "rule": 30,
+  "rows": 32,
+  "boundary": "wrap",
+  "seed": "0000000000000001000000000000000",
+  "ink": "#77658C",
+  "provenance": {
+    "project": "vue-cellular-rule-studio",
+    "author": "CodeSculptor",
+    "marker": "CA-FE72F24B"
+  }
+}
